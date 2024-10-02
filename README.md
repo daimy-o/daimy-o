@@ -64,7 +64,7 @@ def aboutMe():
 #### 🍀 &nbsp;Networks
 
 <p align="center">
-<a href="https://guns.lol/daimy.o">Visite my Guns</a>
+<a href="https://guns.lol/daimy.o">Visit my Guns</a>
 
 ### 🛠 &nbsp;Tools
 
