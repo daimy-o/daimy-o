@@ -1,29 +1,25 @@
 <p align="center">
-  <h1 align="center">Hello, World ! 👋</h1>
-</p>
-<p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;" /></a>
 </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<ul>
-<li>🔭 Computer enthusiast in training</li>
-<li>💗 Favorite music : Youssoupha - On se connaît</li>
-<li>👯 Willing to collaborate on projects</li>
-<li>👾 Student in electronic and computer systems</li>
-  <li> Join <a href="https://discord.gg/ba9D9vaYUd">Community Discord Server</a></li>
-</ul>
+<p align="right">
+Computer enthusiast in training,
+student in electronic and computer systems
+<br/> <b>Willing to collaborate on projects</b> !
+</p>
+<b>Look at</b> : <a href="https://guns.lol/daimy.o">my network</a>
 
-#### more about me !
+#### 🔴 more about me
 ```py
 def aboutMe():
     Username = "daimy.o" or "daimyo" # Consult my networks.
-    Age = 20 # ans.
+    Age = 20 # years.
     Country = "Ivory Coast" # Located in West Africa.
     Speak = "French and English" # I continue to improve myself.
     print(Username, \nAge, \nCountry, \nSpeak)
 ```
 
-#### time of code ⏰
+#### 🟣 time of code
 ```text
 🐍 Python         ████████████████░░░░░░░░░░   35.0% 
 🟡 JavaScript     ██████████░░░░░░░░░░░░░░░░   25.0% 
@@ -31,7 +27,7 @@ def aboutMe():
 🦠 C              ███████░░░░░░░░░░░░░░░░░░░   20.0% 
 ```
 
-#### additional information 📁
+#### 🔵additional information
 ```Js
 🧩 Programming languages {
 - Python     : (In training)
@@ -53,20 +49,15 @@ def aboutMe():
 ```
 
 
-#### :octocat: &nbsp;GitHub Data
+### :octocat: &nbsp;GitHub Data
 
 <br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=daimy.o&theme=onedarkr" alt="DAIMYO" />
+  <img align="left" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=daimy.o&theme=onedarkr" alt="DAIMYO" />
 </p>
 
 
-#### 🍀 &nbsp;Networks
-
-<p align="center">
-<a href="https://guns.lol/daimy.o">Visit my Guns</a>
-
-### 🛠 &nbsp;Tools
+### 🟠&nbsp;Tools used
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -78,4 +69,3 @@ def aboutMe():
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=Assembly)&nbsp;
 ![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)&nbsp;
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid&label=Views&labelColor=%23ff2233&countColor=%2334af7a)
