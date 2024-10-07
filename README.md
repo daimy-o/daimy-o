@@ -10,7 +10,7 @@
 <li>💗 Favorite music : Youssoupha - On se connaît</li>
 <li>👯 Willing to collaborate on projects</li>
 <li>👾 Student in electronic and computer systems</li>
-  <li> Join <a href="https://discord.gg/ba9D9vaYUd">Community Discord Server</a> - <a href="https://discord.gg/ba9D9vaYUd">Haven's Café Discord Server</a></li>
+  <li> Join <a href="https://discord.gg/ba9D9vaYUd">Community Discord Server</a></li>
 </ul>
 
 #### more about me !
