@@ -11,12 +11,10 @@ student in electronic and computer systems
 
 #### 🔴 more about me
 ```py
-def aboutMe():
-    Username = "daimy.o" or "daimyo" # Consult my networks.
-    Age = 20 # years.
-    Country = "Ivory Coast" # Located in West Africa.
-    Speak = "French and English" # I continue to improve myself.
-    print(Username, \nAge, \nCountry, \nSpeak)
+Username = "daimy.o" or "daimyo" # Consult my networks.
+Age = 20 # years.
+Country = "Ivory Coast" # Located in West Africa.
+Speak = "French and English" # I continue to improve myself.
 ```
 
 #### 🟣 time of code
