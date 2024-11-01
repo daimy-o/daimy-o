@@ -7,11 +7,11 @@ Computer enthusiast in training,
 student in electronic and computer systems
 <br/> <b>Willing to collaborate on projects</b> !
 </p>
-<b>Look at</b> : <a href="https://guns.lol/daimy.o">my network</a>
+<b>Look at</b> : <a href="https://guns.lol/delonas">my network</a>
 
 #### 🔴 more about me
 ```py
-Username = "daimy.o" or "daimyo" # Consult my networks.
+Username = "delonas" or "daimyo" # Consult my networks.
 Age = 20 # years.
 Country = "Ivory Coast" # Located in West Africa.
 Speak = "French and English" # I continue to improve myself.
