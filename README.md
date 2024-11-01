@@ -22,14 +22,14 @@ Speak = "French and English" # I continue to improve myself.
 🐍 Python         ████████████████░░░░░░░░░░   35.0% 
 🟡 JavaScript     ██████████░░░░░░░░░░░░░░░░   25.0% 
 🎓 Assembly       ███████░░░░░░░░░░░░░░░░░░░   20.0%  
-🦠 C              ███████░░░░░░░░░░░░░░░░░░░   20.0% 
+🦠 C / C++        ███████░░░░░░░░░░░░░░░░░░░   20.0% 
 ```
 
 #### 🔵additional information
 ```Js
 🧩 Programming languages {
 - Python     : (In training)
-- C          : (In training)
+- C / C++    : (In training)
 - HTML / CSS : (basic level)
 - JavaScript : (I continue to learn)
 - Assembly   : (I continue to learn)
